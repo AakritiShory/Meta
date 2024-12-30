@@ -45,8 +45,8 @@ To get started with the project, follow the instructions below to set up your en
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/jira-clone.git
-   cd jira-clone
+   git clone https://github.com/AakritiShory/Meta.git
+   cd meta
    ```
 
 2. **Install Dependencies**:
