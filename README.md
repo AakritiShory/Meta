@@ -23,7 +23,7 @@ Meta is a modern project management application inspired by industry-leading too
 - **Authentication**: Clerk for secure and user-friendly login functionality.  
 - **Database**: NeonDB for high-performance data handling.  
 
-## Table of Contents
+## 🗃️Table of Contents
 
 1. [Getting Started](#getting-started)
 2. [Installation](#installation)
@@ -35,13 +35,13 @@ Meta is a modern project management application inspired by industry-leading too
 
 To get started with the project, follow the instructions below to set up your environment.
 
-###📱Prerequisites
+### 📱Prerequisites
 
 - Node.js (v14 or later)
 - PostgreSQL Database
 - Clerk account for authentication
 
-##🖥️Installation
+## 🖥️Installation
 
 1. **Clone the Repository**:
    ```bash
@@ -66,16 +66,16 @@ To get started with the project, follow the instructions below to set up your en
    npm run dev
    ```
 
-##🎨Usage
+## 🎨Usage
 
 - Navigate to `http://localhost:3000` in your browser.
 - Register a new account or log in with an existing one.
 - Start creating and managing projects, sprints, and issues.
 
-##🤝Contributing
+## 🤝Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-##📄License
+## 📄License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
