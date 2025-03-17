@@ -1,4 +1,4 @@
-# Meta Project 🌟 
+# Meta Manager Project 🌟 
 ## 🔄 Welcome to Meta!
 
 ![Homepage Screenshot](https://drive.google.com/uc?export=view&id=1i2BO6IlcGiEagZhNEFzSo4DnmKbAMYZq)
